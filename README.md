@@ -6,3 +6,4 @@
   - 건강검진 데이터로 가설 검정하기
     - https://www.boostcourse.org/ds112/lecture/60075?isDesc=false : 데이터 제공 사이트
   - K-beauty 온라인 판매분석
+    - https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1KE10081&vw_cd=MT_ZTITLE&list_id=JF&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE : 데이터 제공 사이트
